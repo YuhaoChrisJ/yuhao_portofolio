@@ -17,4 +17,4 @@ Check my projects on data analysis, machine learning and web mapping!
 
 
 ### Machine Learning Algorithm
-* [ML Algorithm Notebooks (Linear/Logistic/KNN/DecisionTree/Ensemble/PCA/NeuralNetwork](Machine_Learning_Notebooks)
+* [ML Algorithm Notebooks (Linear/Logistic/KNN/DecisionTree/Ensemble/PCA/NeuralNetwork)](Machine_Learning_Notebooks)
