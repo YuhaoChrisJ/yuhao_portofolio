@@ -37,7 +37,7 @@ Check my projects on data analysis, machine learning and web mapping!
 ## Machine Learning
 * [ML Algorithm Notebooks (Linear/Logistic/KNN/DecisionTree/Ensemble/PCA/NeuralNetwork)](Machine_Learning_Notebooks)
 
-I coded each ML algorithm from scratch and in detial, including all steps (such as gradient descent, converge check, regularization etc.) 
+  I coded each ML algorithm from scratch and in detial, including all steps (such as gradient descent, converge check, regularization etc.) 
 
 ## Web Mapping APP
 * [Volunteer Assistant in Mathare Slum](https://github.com/miaomiao612/Mathare-Slum-Facilities-App)
