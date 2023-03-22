@@ -15,6 +15,9 @@ Check my projects on data analysis, machine learning and web mapping!
 * [Predictive Policing: Sexual Harassment Risk in Chicago](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/Predictive%20Policing%20Sexual%20Harassment%20Risk%20in%20Chicago.html)
 * [Space-Time Prediction of Bike Share Demand for NYC](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/Space-Time%20Prediction%20of%20Bike%20Share%20Demand%20for%20NYC.html)
 
-
 ### Machine Learning Algorithm
 * [ML Algorithm Notebooks (Linear/Logistic/KNN/DecisionTree/Ensemble/PCA/NeuralNetwork)](Machine_Learning_Notebooks)
+
+### Web Mapping APP
+* [Volunteer Assistant in Mathare Slum](https://github.com/miaomiao612/Mathare-Slum-Facilities-App)
+
