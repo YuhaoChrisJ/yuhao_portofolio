@@ -8,7 +8,8 @@ Check my projects on data analysis, machine learning and web mapping!
 
 
 ### Data/Policy/Spatial Analysis
-* [People Based Machine Learning - Housing Subsidy]([Data_Analysis/HousingSubsidy.html](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/Prediction%20Parking%20Demand%20in%20SF.html))
+* [Predicting Parking Demand of SF](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/Prediction%20Parking%20Demand%20in%20SF.html)
+* [People Based Machine Learning - Housing Subsidy](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/Prediction%20Parking%20Demand%20in%20SF.html)
 
 
 ### Machine Learning
