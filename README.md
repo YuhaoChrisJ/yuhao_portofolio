@@ -11,7 +11,7 @@ Check my projects on data analysis, machine learning and web mapping!
 ## Policy/Spatial Data Analysis
 * [Predicting Parking Demand of SF](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/Prediction%20Parking%20Demand%20in%20SF.html)
   
-In this project, I developed a “time token” algorithm to estimate the parking occupancy, built a space-time prediction model with a good performance of fit by cross validation (low MAE and MAPE), and engineered and Explored feature data of price rate, built environment, time and space
+  In this project, I developed a “time token” algorithm to estimate the parking occupancy, built a space-time prediction model with a good performance of fit by cross validation (low MAE and MAPE), and engineered and Explored feature data of price rate, built environment, time and space
 * [People Based Machine Learning - Housing Subsidy](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/HousingSubsidy.html)
 * [House Price Prediction in City of Charlotte](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/House%20Price%20Prediction%20in%20City%20of%20Charlotte.html)
 * [Predictive Policing: Sexual Harassment Risk in Chicago](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/Predictive%20Policing%20Sexual%20Harassment%20Risk%20in%20Chicago.html)
