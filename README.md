@@ -1,5 +1,5 @@
 # Yuhao Jia Portofolio
-Welcome to my machine learning/ data analysis projects page!
+Welcome to my machine learning & data analysis projects page!
 
 I CARE, UNDERSTAND and HELP the world with mapping, coding and data.
 
