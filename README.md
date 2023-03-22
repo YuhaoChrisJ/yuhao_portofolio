@@ -43,3 +43,7 @@ Check my projects on data analysis, machine learning and web mapping!
 * [Volunteer Assistant in Mathare Slum](https://github.com/miaomiao612/Mathare-Slum-Facilities-App)
 
   This app is developed for volunteers working in the slum to find their destinations and the shortest way to get there.
+  
+* [Voter Canvassing APP](https://github.com/wuzile98/voter-canvassing)
+  
+  This web app is used to empower a canvasser to help ensure that people are informed about voting.
