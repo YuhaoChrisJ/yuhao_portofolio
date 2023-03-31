@@ -9,7 +9,7 @@ Check my projects on data analysis, machine learning and web mapping!
 
 
 ## Machine Learning
-* [ML Algorithm Notebooks (Linear/Logistic/KNN/DecisionTree/Ensemble/PCA/CNN)](Machine_Learning_Notebooks)
+* [ML Algorithm Notebooks (Linear/Logistic/KNN/DecisionTree/Ensemble(Boost)/PCA/CNN)](Machine_Learning_Notebooks)
 
   Using python, I coded each ML algorithm from scratch and in detial, including all steps (such as gradient descent, converge check, regularization etc.) 
   
