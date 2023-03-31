@@ -8,6 +8,11 @@ I CARE, UNDERSTAND and HELP the world with mapping, coding and data.
 Check my projects on data analysis, machine learning and web mapping!
 
 
+## Machine Learning
+* [ML Algorithm Notebooks (Linear/Logistic/KNN/DecisionTree/Ensemble/PCA/CNN)](Machine_Learning_Notebooks)
+
+  Using python, I coded each ML algorithm from scratch and in detial, including all steps (such as gradient descent, converge check, regularization etc.) 
+  
 ## Policy/Spatial Data Analysis
 * [Predicting Parking Demand of SF](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/Prediction%20Parking%20Demand%20in%20SF.html)
   
@@ -34,10 +39,6 @@ Check my projects on data analysis, machine learning and web mapping!
   Bike share system need to ‘re-balance’ bicycles across the network.
   In this project,  time-space predictive modeling is used to predict the bike share pattern of each hour in New York City and try to address an operations issue for the citi-bike system provided by lyft.
 
-## Machine Learning
-* [ML Algorithm Notebooks (Linear/Logistic/KNN/DecisionTree/Ensemble/PCA/CNN)](Machine_Learning_Notebooks)
-
-  Using python, I coded each ML algorithm from scratch and in detial, including all steps (such as gradient descent, converge check, regularization etc.) 
 
 ## Web Mapping APP
 * [Volunteer Assistant in Mathare Slum](https://github.com/miaomiao612/Mathare-Slum-Facilities-App)
