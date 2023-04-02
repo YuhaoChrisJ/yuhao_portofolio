@@ -13,7 +13,7 @@ Check my projects on data analysis, machine learning and web mapping!
 
   Using python, I coded each ML algorithm from scratch and in detial, including all steps (such as gradient descent, converge check, regularization, etc.) 
   
-## Policy/Spatial Data Analysis
+## Policy/Marketing/Spatial Data Analysis
 * [Predicting Parking Demand of SF](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/Prediction%20Parking%20Demand%20in%20SF.html)
   
   In this project, I developed a “time token” algorithm to estimate the parking occupancy, 
