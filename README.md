@@ -13,7 +13,7 @@ Check my projects on data analysis, machine learning and web mapping!
 
   Using python, I coded each ML algorithm from scratch and in detial, including all steps (such as gradient descent, converge check, regularization, etc.) 
 
-* [Stock Price Prediction comparing Deep Learning Models (GRU,LSTM,GRU+LSTM)](Stock Prediction using Deep Learning)
+* [Stock Price Prediction comparing Deep Learning Models (GRU,LSTM,GRU+LSTM)](Stock_Prediction)
 
   This is an ongoing project, I've already processed the data and deployed 4 base models: a linear regression model, LSTM, GRU, and a combination of LSTM and GRU. I plan to engineer some new features from the original dataset and finetune the hyper parameters to compare the performance difference.
   
