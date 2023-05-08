@@ -15,7 +15,7 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
   
 * [Hurricane Damage Detection using Random Forest and CNN](Hurricane_Damage_Detection)
 
-  Hurricane causes damage to property, infrastructure, and human life. I used RF and CNN(AlexNet) model to detect damaged properties through satellite images, and tuned the CNN model through regularization/hyperparameters tuning/data augmentation/ensemble to reach a "human level" classification accuracy: 0.99(Train), 0.97(Dev), 0.98(Test).
+  I used RF and CNN(AlexNet) model to detect hurricane damaged properties through satellite images, and tuned the CNN model through regularization/hyperparameters tuning/data augmentation/ensemble to reach a "human level" classification accuracy: 0.99(Train), 0.97(Dev), 0.98(Test).
   
   Check the project presentation [here](https://docs.google.com/presentation/d/1m7ji0eLPvw7-_8y0Up8dCOc90WtN7Z8-7mvYgz6bWgY/edit#slide=id.g23f820c846a_0_294)!
 
