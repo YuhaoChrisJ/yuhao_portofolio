@@ -26,7 +26,7 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
   built a space-time prediction model with a good performance of fit by cross validation (low MAE and MAPE).
   
   <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Parking Prediction2.png" width="350" height="190">  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Parking Prediction.png" width="400">
-  <br/>
+
 * [People Based Machine Learning - Housing Subsidy](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/HousingSubsidy.html)
 
   The aim of this report is to develop a proactive model for targeting home owners who qualify for a home repair tax credit program.
@@ -38,7 +38,7 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
   The purpose of this project is to develop a home price forecasting model to predict home prices of City of Charlotte. 
   The price of a home is a direct reflection of the value of a property, not only in terms of the living conditions and future development of an individual family.
   
-  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/House Price2.png" width="320"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/House Price.png" width="320">
+  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/House Price3.png" width="320"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/House Price2.png" width="320"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/House Price.png" width="320">
 
 * [Predictive Policing: Sexual Harassment Risk in Chicago](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/Predictive%20Policing%20Sexual%20Harassment%20Risk%20in%20Chicago.html)
 
@@ -46,14 +46,14 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
   selected feature data based on ‘broken window theory’,
   and built poisson regression model on k-fold and neighborhood cross validation
   
-  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Predicting Police2.png" width="500"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Predicting Police.png" width="500">
+  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Predicting Police2.png" width="400"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Predicting Police.png" width="500">
 
 * [Space-Time Prediction of Bike Share Demand for NYC](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/Space-Time%20Prediction%20of%20Bike%20Share%20Demand%20for%20NYC.html)
 
   Bike share system need to ‘re-balance’ bicycles across the network.
   In this project,  time-space predictive modeling is used to predict the bike share pattern of each hour in New York City and try to address an operations issue for the citi-bike system provided by lyft.
   
-  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Bike Share Demand2.png" width="500"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Bike Share Demand.png" width="500">
+  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Bike Share Demand2.png" width="400"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Bike Share Demand.png" width="500">
 
 
 ## Cloud Data Pipeline/Web(Mapping) APP
