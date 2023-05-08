@@ -12,6 +12,12 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
 * [ML Algorithm Notebooks (Linear/Logistic/KNN/DecisionTree/Ensemble(Boost)/PCA/CNN/NLP/ReinforcementLearning)](Machine_Learning_Notebooks)
 
   Using python, I coded each ML algorithm from scratch and in detial, including all steps (such as gradient descent, converge check, regularization, etc.) 
+  
+* [Hurricane Damage Detection using Random Forest and CNN](Hurricane_Damage_Detection)
+
+  Hurricane causes damage to property, infrastructure, and human life. I used RF and CNN(AlexNet) model to detect damaged properties through satellite images, and tuned the CNN model through regularization/hyperparameters tuning/data augmentation/ensemble to reach a "human level" classification accuracy: 0.99(Train), 0.97(Dev), 0.98(Test).
+  
+  Check the project presentation [here](https://docs.google.com/presentation/d/1m7ji0eLPvw7-_8y0Up8dCOc90WtN7Z8-7mvYgz6bWgY/edit#slide=id.g23f820c846a_0_294)!
 
 * [Stock Price Prediction comparing Deep Learning Models (GRU,LSTM,GRU+LSTM)](Stock_Prediction)
 
@@ -61,7 +67,7 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
 
   Using Google Cloud Platform, We built a data pipeline: loading, extracting, querying data and visualizing a car crashes prediction model in a web app. Check the Prediction map [here](https://hazellla.github.io/final/site/index.html).
   
-  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Pipeline.png" width="500">
+  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Pipeline.png" width="500"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Pipeline2.png" height="200">
 
 * [Volunteer Assistant in Mathare Slum](https://github.com/miaomiao612/Mathare-Slum-Facilities-App)
 
