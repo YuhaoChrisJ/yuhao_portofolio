@@ -67,10 +67,10 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
 
   This app is developed for volunteers working in the slum to find their destinations and the shortest way to get there. Check the web app [here](https://miaomiao612.github.io/Mathare-Slum-Facilities-App/).
   
-  <img src="https://github.com/miaomiao612/Mathare-Slum-Facilities-App/blob/main/%E5%8A%A8%E7%94%BB2.gif" width="320" alt="2">
+  <img src="https://github.com/miaomiao612/Mathare-Slum-Facilities-App/blob/main/%E5%8A%A8%E7%94%BB2.gif" width="280" alt="2">
   
 * [Voter Canvassing APP](https://github.com/wuzile98/voter-canvassing)
   
   This web app is used to empower a canvasser to help ensure that people are informed about voting. Check the app [here](https://wuzile98.github.io/voter-canvassing/site/index.html).
   
-    <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/voter canvasing app.png" width="320">
+    <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/voter canvasing app.png" width="280">
