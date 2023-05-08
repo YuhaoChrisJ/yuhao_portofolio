@@ -15,7 +15,7 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
   
 * [Hurricane Damage Detection using Random Forest and CNN](Hurricane_Damage_Detection)
 
-  Hurricane causes damage to property, infrastructure, and human life. I used RF and CNN model to detect damaged properties through satellite images, and tuned the CNN model to reach "human level" classification accuracy: 0.99(Train), 0.97(Dev), 0.98(Test).
+  Hurricane causes damage to property, infrastructure, and human life. I used RF and CNN(AlexNet) model to detect damaged properties through satellite images, and tuned the CNN model through regularization/hyperparameters tuning/data augmentation/ensemble to reach a "human level" classification accuracy: 0.99(Train), 0.97(Dev), 0.98(Test).
 
 * [Stock Price Prediction comparing Deep Learning Models (GRU,LSTM,GRU+LSTM)](Stock_Prediction)
 
