@@ -53,7 +53,7 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
   Bike share system need to ‘re-balance’ bicycles across the network.
   In this project,  time-space predictive modeling is used to predict the bike share pattern of each hour in New York City and try to address an operations issue for the citi-bike system provided by lyft.
   
-  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Bike Share Demand2.png" width="300"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Bike Share Demand.png" width="400">
+  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Bike Share Demand2.png" width="350"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Bike Share Demand.png" width="400">
 
 
 ## Cloud Data Pipeline/Web(Mapping) APP
