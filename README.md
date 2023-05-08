@@ -67,7 +67,7 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
 
   This app is developed for volunteers working in the slum to find their destinations and the shortest way to get there. Check the web app [here](https://miaomiao612.github.io/Mathare-Slum-Facilities-App/).
   
-  <img src="https://github.com/miaomiao612/Mathare-Slum-Facilities-App/blob/main/%E5%8A%A8%E7%94%BB2.gif" width="280" alt="2"> <img src="https://github.com/miaomiao612/Mathare-Slum-Facilities-App/blob/main/%E5%8A%A8%E7%94%BB4.gif" width="280" alt="4">
+  <img src="https://github.com/miaomiao612/Mathare-Slum-Facilities-App/blob/main/%E5%8A%A8%E7%94%BB2.gif" width="320" alt="2"> <img src="https://github.com/miaomiao612/Mathare-Slum-Facilities-App/blob/main/%E5%8A%A8%E7%94%BB2.gif" width="250" alt="2"> <img src="https://github.com/miaomiao612/Mathare-Slum-Facilities-App/blob/main/%E5%8A%A8%E7%94%BB4.gif" width="250" alt="4">
   
 * [Voter Canvassing APP](https://github.com/wuzile98/voter-canvassing)
   
