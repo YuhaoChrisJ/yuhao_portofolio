@@ -12,6 +12,10 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
 * [ML Algorithm Notebooks (Linear/Logistic/KNN/DecisionTree/Ensemble(Boost)/PCA/CNN/NLP/ReinforcementLearning)](Machine_Learning_Notebooks)
 
   Using python, I coded each ML algorithm from scratch and in detial, including all steps (such as gradient descent, converge check, regularization, etc.) 
+  
+* [Hurricane Damage Detection using Random Forest and CNN](Hurricane_Damage_Detection)
+
+  Hurricane causes damage to property, infrastructure, and human life. I used RF and CNN model to detect damaged properties through satellite images, and tuned the CNN model to reach "human level" classification accuracy: 0.99(Train), 0.97(Dev), 0.98(Test).
 
 * [Stock Price Prediction comparing Deep Learning Models (GRU,LSTM,GRU+LSTM)](Stock_Prediction)
 
