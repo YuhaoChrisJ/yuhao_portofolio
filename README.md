@@ -31,7 +31,7 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
 
   The aim of this report is to develop a proactive model for targeting home owners who qualify for a home repair tax credit program.
   
-  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/People-based ML2.png" width="320"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/People-based ML.png" width="320">
+  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/People-based ML2.png" width="380"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/People-based ML.png" width="320">
 
 * [House Price Prediction in City of Charlotte](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/House%20Price%20Prediction%20in%20City%20of%20Charlotte.html)
 
