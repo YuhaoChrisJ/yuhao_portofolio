@@ -1,11 +1,11 @@
 # Yuhao Jia Data Analysis Portofolio
 Welcome to my machine learning & data analysis projects page!
 
-I CARE, UNDERSTAND and HELP the world with data and machine learning.
+I CARE, UNDERSTAND and HELP the world with data, coding and machine learning.
 
 
 
-Check my projects on machine learning, data pipeline/analysis and web mapping!
+Check my projects on machine learning, data pipeline/analysis and web app!
 
 
 ## Machine Learning
@@ -44,15 +44,15 @@ Check my projects on machine learning, data pipeline/analysis and web mapping!
   In this project,  time-space predictive modeling is used to predict the bike share pattern of each hour in New York City and try to address an operations issue for the citi-bike system provided by lyft.
 
 
-## Cloud Data Pipeline/Web Mapping APP
+## Cloud Data Pipeline/Web(Mapping) APP
 * [Data Pipeline for Traffic Risk Prediction in Reading](https://github.com/hazellla/final)
 
   Using Google Cloud Platform, We built a data pipeline: loading, extracting, querying data and visualizing a car crashes prediction model in a web app. Check the Prediction map [here](https://hazellla.github.io/final/site/index.html).
 
 * [Volunteer Assistant in Mathare Slum](https://github.com/miaomiao612/Mathare-Slum-Facilities-App)
 
-  This app is developed for volunteers working in the slum to find their destinations and the shortest way to get there.Check the Prediction map [here](https://hazellla.github.io/final/site/index.html)
+  This app is developed for volunteers working in the slum to find their destinations and the shortest way to get there. Check the web app [here](https://miaomiao612.github.io/Mathare-Slum-Facilities-App/).
   
 * [Voter Canvassing APP](https://github.com/wuzile98/voter-canvassing)
   
-  This web app is used to empower a canvasser to help ensure that people are informed about voting.
+  This web app is used to empower a canvasser to help ensure that people are informed about voting. Check the app [HERE](https://wuzile98.github.io/voter-canvassing/site/index.html).
