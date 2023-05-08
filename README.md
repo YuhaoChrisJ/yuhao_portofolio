@@ -67,7 +67,7 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
 
   Using Google Cloud Platform, We built a data pipeline: loading, extracting, querying data and visualizing a car crashes prediction model in a web app. Check the Prediction map [here](https://hazellla.github.io/final/site/index.html).
   
-  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Pipeline.png" width="400"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Pipeline2.png" width="280">
+  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Pipeline.png" width="480"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Pipeline2.png" width="280">
 
 * [Volunteer Assistant in Mathare Slum](https://github.com/miaomiao612/Mathare-Slum-Facilities-App)
 
