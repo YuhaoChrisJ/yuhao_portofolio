@@ -38,7 +38,7 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
   The purpose of this project is to develop a home price forecasting model to predict home prices of City of Charlotte. 
   The price of a home is a direct reflection of the value of a property, not only in terms of the living conditions and future development of an individual family.
   
-  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/House Price2.png" width="350"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/House Price.png" width="320">
+  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/House Price2.png" width="400"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/House Price.png" width="320">
 
 * [Predictive Policing: Sexual Harassment Risk in Chicago](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/Predictive%20Policing%20Sexual%20Harassment%20Risk%20in%20Chicago.html)
 
