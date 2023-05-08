@@ -25,8 +25,7 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
   In this project, I developed a “time token” algorithm to estimate the parking occupancy, 
   built a space-time prediction model with a good performance of fit by cross validation (low MAE and MAPE).
   
-  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Parking Prediction2.png" width="400">
-  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Parking Prediction.png" width="400">
+  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Parking Prediction2.png" width="400">  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Parking Prediction.png" width="400">
   
 * [People Based Machine Learning - Housing Subsidy](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/HousingSubsidy.html)
 
