@@ -1,11 +1,11 @@
 # Yuhao Jia Data Analysis Portofolio
 Welcome to my machine learning & data analysis projects page!
 
-I CARE, UNDERSTAND and HELP the world with mapping, coding and data.
+I CARE, UNDERSTAND and HELP the world with data and machine learning.
 
 
 
-Check my projects on data analysis, machine learning and web mapping!
+Check my projects on machine learning, data pipeline/analysis and web mapping!
 
 
 ## Machine Learning
@@ -15,7 +15,7 @@ Check my projects on data analysis, machine learning and web mapping!
 
 * [Stock Price Prediction comparing Deep Learning Models (GRU,LSTM,GRU+LSTM)](Stock_Prediction)
 
-  This is an ongoing project, I've already processed the data and deployed 4 baseline models: a linear regression model, LSTM, GRU, and a combination of LSTM and GRU. I plan to engineer some new features from the original dataset and finetune the hyper parameters to compare the performance difference.
+  In this project, I processed the data and deployed 4 baseline models: a linear regression model, LSTM, GRU, and a combination of LSTM and GRU. In phase2, I  engineered some new features from the original dataset and finetune the hyper parameters to compare the performance difference.
   
 ## Policy/Marketing/Spatial Data Analysis
 * [Predicting Parking Demand of SF](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/Prediction%20Parking%20Demand%20in%20SF.html)
@@ -44,10 +44,14 @@ Check my projects on data analysis, machine learning and web mapping!
   In this project,  time-space predictive modeling is used to predict the bike share pattern of each hour in New York City and try to address an operations issue for the citi-bike system provided by lyft.
 
 
-## Web Mapping APP
+## Cloud Data Pipeline/Web Mapping APP
+* [Data Pipeline for Traffic Risk Prediction in Reading](https://github.com/hazellla/final)
+
+  Using Google Cloud Platform, We built a data pipeline: loading, extracting, querying data and visualizing a car crashes prediction model in a web app. Check the Prediction map [here](https://hazellla.github.io/final/site/index.html).
+
 * [Volunteer Assistant in Mathare Slum](https://github.com/miaomiao612/Mathare-Slum-Facilities-App)
 
-  This app is developed for volunteers working in the slum to find their destinations and the shortest way to get there.
+  This app is developed for volunteers working in the slum to find their destinations and the shortest way to get there.Check the Prediction map [here](https://hazellla.github.io/final/site/index.html)
   
 * [Voter Canvassing APP](https://github.com/wuzile98/voter-canvassing)
   
