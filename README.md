@@ -46,7 +46,7 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
   selected feature data based on ‘broken window theory’,
   and built poisson regression model on k-fold and neighborhood cross validation
   
-  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Predicting Police2.png" width="400"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Predicting Police.png" width="400">
+  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Predicting Police2.png" width="370"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Predicting Police.png" width="400">
 
 * [Space-Time Prediction of Bike Share Demand for NYC](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/Space-Time%20Prediction%20of%20Bike%20Share%20Demand%20for%20NYC.html)
 
