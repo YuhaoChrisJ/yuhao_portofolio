@@ -17,7 +17,7 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
 
   In this project, I processed the data and deployed 4 baseline models: a linear regression model, LSTM, GRU, and a combination of LSTM and GRU. In phase2, I  engineered some new features from the original dataset and finetune the hyper parameters to compare the performance difference.
   
-  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Stock Price.png" width="500">
+  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Stock Price.png" width="600">
   
 ## Policy/Marketing/Spatial Data Analysis
 * [Predicting Parking Demand of SF](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/Prediction%20Parking%20Demand%20in%20SF.html)
@@ -25,7 +25,7 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
   In this project, I developed a “time token” algorithm to estimate the parking occupancy, 
   built a space-time prediction model with a good performance of fit by cross validation (low MAE and MAPE).
   
-  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Parking Prediction.png" width="500">
+  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Parking Prediction.png" width="600">
   
 * [People Based Machine Learning - Housing Subsidy](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/HousingSubsidy.html)
 
