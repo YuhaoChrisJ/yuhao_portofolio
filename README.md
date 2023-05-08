@@ -1,11 +1,11 @@
 # Yuhao Jia Data Analysis Portofolio
 Welcome to my machine learning & data analysis projects page!
 
-I CARE, UNDERSTAND and HELP the world with data, coding and machine learning.
+I CARE, UNDERSTAND and HELP the world with data, coding and mapping.
 
 
 
-Check my projects on machine learning, data pipeline/analysis and web app!
+Check my projects on prediction, data pipeline, cloud computing, policy analytic and web app!
 
 
 ## Machine Learning
