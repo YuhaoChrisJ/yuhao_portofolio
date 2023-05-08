@@ -60,3 +60,4 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
   This web app is used to empower a canvasser to help ensure that people are informed about voting. Check the app [here](https://wuzile98.github.io/voter-canvassing/site/index.html).
   
     <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Pipeline.png">
+    ![plot](./Images/Pipeline.png)
