@@ -1,11 +1,11 @@
 # Yuhao Jia Data Analysis Portofolio
 Welcome to my machine learning & data analysis projects page!
 
-I CARE, UNDERSTAND and HELP the world with mapping, coding and data.
+I CARE, UNDERSTAND and HELP the world with data and machine learning.
 
 
 
-Check my projects on data analysis, machine learning and web mapping!
+Check my projects on machine learning, data pipeline/analysis and web mapping!
 
 
 ## Machine Learning
@@ -47,11 +47,11 @@ Check my projects on data analysis, machine learning and web mapping!
 ## Cloud Data Pipeline/Web Mapping APP
 * [Data Pipeline for Traffic Risk Prediction in Reading](https://github.com/hazellla/final)
 
-  Using Google Cloud Platform, We built a data pipeline for the counts of car crashes prediction model. Check the Prediction map [here](https://hazellla.github.io/final/site/index.html).
+  Using Google Cloud Platform, We built a data pipeline: loading, extracting, querying data and visualizing a car crashes prediction model in a web app. Check the Prediction map [here](https://hazellla.github.io/final/site/index.html).
 
 * [Volunteer Assistant in Mathare Slum](https://github.com/miaomiao612/Mathare-Slum-Facilities-App)
 
-  This app is developed for volunteers working in the slum to find their destinations and the shortest way to get there.
+  This app is developed for volunteers working in the slum to find their destinations and the shortest way to get there.Check the Prediction map [here](https://hazellla.github.io/final/site/index.html)
   
 * [Voter Canvassing APP](https://github.com/wuzile98/voter-canvassing)
   
