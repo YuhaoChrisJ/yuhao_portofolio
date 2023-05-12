@@ -62,7 +62,7 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
   <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Bike Share Demand2.png" width="350"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Bike Share Demand.png" width="400">
 
 
-## Cloud Data Pipeline/Web(Mapping) APP
+## Cloud Data Pipeline(ETL)/Web(Mapping) APP
 * #### [Data Pipeline for Traffic Risk Prediction in Reading](https://github.com/hazellla/final)
 
   Using Google Cloud Platform, We built a data pipeline: loading, extracting, querying data and visualizing a car crashes prediction model in a web app. Check the Prediction map [here](https://hazellla.github.io/final/site/index.html).
