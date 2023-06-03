@@ -26,6 +26,13 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
   <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Stock Price.png" width="750">
   
 ## Policy/Marketing/Spatial Data Analysis
+* #### [Vegetation Impacts on the Spread of Wildfire in California](https://storymaps.arcgis.com/stories/c959ca191af448b782f95cc6d00860de)
+  
+  In this MUSA Capstone project, I used a statistical approach to answer whether vegetation contributes to the stoppage of wildfire controlling for weather and topography 
+  and which vegetation types have a better ability to stop the spread of wildfire.
+  
+  <img src="https://www.design.upenn.edu/sites/default/files/styles/yes_para_full/public/yes23/Cover%20Page.jpg?itok=k2vFze87" height="190"> 
+  
 * #### [Predicting Parking Demand of SF](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/Prediction%20Parking%20Demand%20in%20SF.html)
   
   In this project, I developed a “time token” algorithm to estimate the parking occupancy, 
