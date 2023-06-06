@@ -5,7 +5,7 @@ I CARE, UNDERSTAND and HELP the world with data, coding and mapping.
 
 
 
-Check my projects on prediction, data pipeline, cloud computing, policy analytic and web app!
+Check my projects on AI/ML prediction, data pipeline, cloud computing, policy analytic and web app!
 
 
 ## Machine Learning
