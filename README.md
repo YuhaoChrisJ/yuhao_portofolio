@@ -76,8 +76,3 @@ Check my projects on AI/ML prediction, data pipeline, cloud computing, policy an
   
   <img src="https://github.com/miaomiao612/Mathare-Slum-Facilities-App/blob/main/%E5%8A%A8%E7%94%BB1.gif" width="250" alt="2"> <img src="https://github.com/miaomiao612/Mathare-Slum-Facilities-App/blob/main/%E5%8A%A8%E7%94%BB2.gif" width="250" alt="2"> <img src="https://github.com/miaomiao612/Mathare-Slum-Facilities-App/blob/main/%E5%8A%A8%E7%94%BB4.gif" width="250" alt="4">
   
-* #### [Voter Canvassing APP](https://github.com/wuzile98/voter-canvassing)
-  
-  This web app is used to empower a canvasser to help ensure that people are informed about voting. Check the app [here](https://wuzile98.github.io/voter-canvassing/site/index.html).
-  
-    <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/voter canvasing app.png" width="280">
