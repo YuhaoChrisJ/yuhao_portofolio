@@ -62,13 +62,6 @@ Check my projects on AI/ML prediction, data pipeline, cloud computing, policy an
   
   <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Predicting Police2.png" width="380"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Predicting Police.png" width="380">
 
-* #### [Space-Time Prediction of Bike Share Demand for NYC](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/Space-Time%20Prediction%20of%20Bike%20Share%20Demand%20for%20NYC.html)
-
-  Bike share system need to ‘re-balance’ bicycles across the network.
-  In this project,  time-space predictive modeling is used to predict the bike share pattern of each hour in New York City and try to address an operations issue for the citi-bike system provided by lyft.
-  
-  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Bike Share Demand2.png" width="350"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Bike Share Demand.png" width="400">
-
 
 ## Cloud Data Pipeline(ETL)/Web(Mapping) APP
 * #### [Data Pipeline for Traffic Risk Prediction in Reading, PA](https://github.com/hazellla/final)
