@@ -13,11 +13,11 @@ Check my projects on AI/ML prediction, data pipeline, cloud computing, policy an
 
   Using python, I coded each ML algorithm from scratch and in detail, including all steps (such as gradient descent, converge check, regularization, etc.) 
   
-* #### [Hurricane Damage Detection using Random Forest and CNN](Hurricane_Damage_Detection)
+* #### [Hurricane Damage Detection using Random Forest and CNN](https://docs.google.com/presentation/d/1m7ji0eLPvw7-_8y0Up8dCOc90WtN7Z8-7mvYgz6bWgY/edit#slide=id.g23f820c846a_0_294)
 
   I used RF and CNN(AlexNet) model to detect hurricane damaged properties through satellite images, and tuned the CNN model through regularization/hyperparameters tuning/data augmentation/ensemble to reach a "human level" classification accuracy: 0.99(Train), 0.97(Dev), 0.98(Test).
   
-  Check the project presentation [here](https://docs.google.com/presentation/d/1m7ji0eLPvw7-_8y0Up8dCOc90WtN7Z8-7mvYgz6bWgY/edit#slide=id.g23f820c846a_0_294)!
+  Check the project notebook [here](Hurricane_Damage_Detection)!
 
 * #### [Stock Price Prediction comparing Deep Learning Models (GRU,LSTM,GRU+LSTM)](Stock_Prediction)
 
