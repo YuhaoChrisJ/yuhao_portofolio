@@ -16,9 +16,11 @@ Check my projects on AI/ML prediction, data pipeline, cloud computing, policy an
   
   Check the project notebook [here](Hurricane_Damage_Detection)!
 
-* #### [Stock Price Prediction comparing Deep Learning Models (GRU,LSTM,GRU+LSTM)](Stock_Prediction)
+* #### [Stock Price Prediction comparing Deep Learning Models (GRU,LSTM,GRU+LSTM)](https://docs.google.com/document/d/1MeUE9QzKXxKZCmsjAKUgUyLI09PvMtikNY9vMguFn6I/edit?usp=sharing)
 
   In this project, I processed the data and deployed 4 baseline models: a linear regression model, LSTM, GRU, and a combination of LSTM and GRU. In phase2, I  engineered some new features from the original dataset and finetune the hyper parameters to compare the performance difference.
+
+  Check the project notebook [here](Stock_Prediction)!
   
   <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Stock Price.png" width="750">
 
