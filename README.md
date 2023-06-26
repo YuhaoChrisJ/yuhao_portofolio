@@ -9,9 +9,6 @@ Check my projects on AI/ML prediction, data pipeline, cloud computing, policy an
 
 
 ## Machine Learning
-* #### [ML Algorithm Notebooks (Linear/Logistic/KNN/DecisionTree/Ensemble(Boost)/PCA/CNN/NLP/ReinforcementLearning)](Machine_Learning_Notebooks)
-
-  Using python, I coded each ML algorithm from scratch and in detail, including all steps (such as gradient descent, converge check, regularization, etc.) 
   
 * #### [Hurricane Damage Detection using Random Forest and CNN](https://docs.google.com/presentation/d/1m7ji0eLPvw7-_8y0Up8dCOc90WtN7Z8-7mvYgz6bWgY/edit#slide=id.g23f820c846a_0_294)
 
@@ -24,6 +21,10 @@ Check my projects on AI/ML prediction, data pipeline, cloud computing, policy an
   In this project, I processed the data and deployed 4 baseline models: a linear regression model, LSTM, GRU, and a combination of LSTM and GRU. In phase2, I  engineered some new features from the original dataset and finetune the hyper parameters to compare the performance difference.
   
   <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Stock Price.png" width="750">
+
+* #### [ML Algorithm Notebooks (Linear/Logistic/KNN/DecisionTree/Ensemble(Boost)/PCA/CNN/NLP/ReinforcementLearning)](Machine_Learning_Notebooks)
+
+  Using python, I coded each ML algorithm from scratch and in detail, including all steps (such as gradient descent, converge check, regularization, etc.) 
   
 ## Policy/Marketing/Spatial Data Analysis
   
