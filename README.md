@@ -1,29 +1,39 @@
-# Yuhao Jia Machine Learning/Data Analysis Portofolio
+# Yuhao Jia Machine Learning/Data Analysis Portfolio
 Welcome to my machine learning & data analysis projects page!
 
 I CARE, UNDERSTAND and HELP the world with data, coding and mapping.
 
 
 
-Check my projects on prediction, data pipeline, cloud computing, policy analytic and web app!
+Check my projects on AI/ML prediction, data pipeline, cloud computing, policy analytic and web app!
 
 
 ## Machine Learning
-* #### [ML Algorithm Notebooks (Linear/Logistic/KNN/DecisionTree/Ensemble(Boost)/PCA/CNN/NLP/ReinforcementLearning)](Machine_Learning_Notebooks)
 
-  Using python, I coded each ML algorithm from scratch and in detail, including all steps (such as gradient descent, converge check, regularization, etc.) 
+* #### [AnalystGPT: Your data anlysis & visualization assistant](https://anlystgpt.streamlit.app/)
+
+  This is a web app I developed by myself. Using openai GPT llm models, it allows you to upload your data, and write description of what analysis you want to do, and then the app will query the data and draw charts based on your description. Anyone can use it to analyze data just by words!
   
-* #### [Hurricane Damage Detection using Random Forest and CNN](Hurricane_Damage_Detection)
+    <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/AnalystGPT.png" width="750">
+  
+  
+* #### [Hurricane Damage Detection using Random Forest and CNN](https://docs.google.com/presentation/d/1m7ji0eLPvw7-_8y0Up8dCOc90WtN7Z8-7mvYgz6bWgY/edit#slide=id.g23f820c846a_0_294)
 
   I used RF and CNN(AlexNet) model to detect hurricane damaged properties through satellite images, and tuned the CNN model through regularization/hyperparameters tuning/data augmentation/ensemble to reach a "human level" classification accuracy: 0.99(Train), 0.97(Dev), 0.98(Test).
   
-  Check the project presentation [here](https://docs.google.com/presentation/d/1m7ji0eLPvw7-_8y0Up8dCOc90WtN7Z8-7mvYgz6bWgY/edit#slide=id.g23f820c846a_0_294)!
+  Check the project notebook [here](Hurricane_Damage_Detection)!
 
-* #### [Stock Price Prediction comparing Deep Learning Models (GRU,LSTM,GRU+LSTM)](Stock_Prediction)
+* #### [Stock Price Prediction comparing Deep Learning Models (GRU,LSTM,GRU+LSTM)](https://docs.google.com/document/d/1MeUE9QzKXxKZCmsjAKUgUyLI09PvMtikNY9vMguFn6I/edit?usp=sharing)
 
   In this project, I processed the data and deployed 4 baseline models: a linear regression model, LSTM, GRU, and a combination of LSTM and GRU. In phase2, I  engineered some new features from the original dataset and finetune the hyper parameters to compare the performance difference.
+
+  Check the project notebook [here](Stock_Prediction)!
   
   <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Stock Price.png" width="750">
+
+* #### [ML Algorithm Notebooks (Linear/Logistic/KNN/DecisionTree/Ensemble(Boost)/PCA/CNN/NLP/ReinforcementLearning)](Machine_Learning_Notebooks)
+
+  Using python, I coded each ML algorithm from scratch and in detail, including all steps (such as gradient descent, converge check, regularization, etc.) 
   
 ## Policy/Marketing/Spatial Data Analysis
   
@@ -54,21 +64,6 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
   
   <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/House Price2.png" width="400"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/House Price.png" width="320">
 
-* #### [Predictive Policing: Sexual Harassment Risk in Chicago](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/Predictive%20Policing%20Sexual%20Harassment%20Risk%20in%20Chicago.html)
-
-  In this project, I demonstrated the limitations of prediction model due to the bias in the original dataset,
-  selected feature data based on ‘broken window theory’,
-  and built poisson regression model on k-fold and neighborhood cross validation
-  
-  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Predicting Police2.png" width="380"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Predicting Police.png" width="380">
-
-* #### [Space-Time Prediction of Bike Share Demand for NYC](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/Space-Time%20Prediction%20of%20Bike%20Share%20Demand%20for%20NYC.html)
-
-  Bike share system need to ‘re-balance’ bicycles across the network.
-  In this project,  time-space predictive modeling is used to predict the bike share pattern of each hour in New York City and try to address an operations issue for the citi-bike system provided by lyft.
-  
-  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Bike Share Demand2.png" width="350"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Bike Share Demand.png" width="400">
-
 
 ## Cloud Data Pipeline(ETL)/Web(Mapping) APP
 * #### [Data Pipeline for Traffic Risk Prediction in Reading, PA](https://github.com/hazellla/final)
@@ -83,8 +78,3 @@ Check my projects on prediction, data pipeline, cloud computing, policy analytic
   
   <img src="https://github.com/miaomiao612/Mathare-Slum-Facilities-App/blob/main/%E5%8A%A8%E7%94%BB1.gif" width="250" alt="2"> <img src="https://github.com/miaomiao612/Mathare-Slum-Facilities-App/blob/main/%E5%8A%A8%E7%94%BB2.gif" width="250" alt="2"> <img src="https://github.com/miaomiao612/Mathare-Slum-Facilities-App/blob/main/%E5%8A%A8%E7%94%BB4.gif" width="250" alt="4">
   
-* #### [Voter Canvassing APP](https://github.com/wuzile98/voter-canvassing)
-  
-  This web app is used to empower a canvasser to help ensure that people are informed about voting. Check the app [here](https://wuzile98.github.io/voter-canvassing/site/index.html).
-  
-    <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/voter canvasing app.png" width="280">
