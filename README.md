@@ -64,6 +64,13 @@ Check my projects on AI/ML prediction, data pipeline, cloud computing, policy an
   
   <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/House Price2.png" width="400"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/House Price.png" width="320">
 
+* #### [Predictive Policing: Sexual Harassment Risk in Chicago](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/Predictive%20Policing%20Sexual%20Harassment%20Risk%20in%20Chicago.html)
+
+  In this project, I demonstrated the limitations of prediction model due to the bias in the original dataset,
+  selected feature data based on ‘broken window theory’,
+  and built poisson regression model on k-fold and neighborhood cross validation
+
+  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Predicting Police2.png" width="380"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Predicting Police.png" width="380">
 
 ## Cloud Data Pipeline(ETL)/Web(Mapping) APP
 * #### [Data Pipeline for Traffic Risk Prediction in Reading, PA](https://github.com/hazellla/final)
