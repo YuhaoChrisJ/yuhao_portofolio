@@ -12,7 +12,7 @@ Check my projects on AI/ML prediction, data pipeline, cloud computing, policy an
 
 * #### [AnalystGPT: Your data anlysis & visualization assistant](https://anlystgpt.streamlit.app/)
 
-  This is a web app I developed by myself. Using openai GPT llm models, it allows you to upload your data, and write description of what analysis you want to do, and then the app will query the data and visualize charts based on your description. Anyone can use it to analyze data just by words!
+  This is a web app I developed by myself. Using openai GPT llm models, it allows you to upload your data, and write description of what analysis you want to do, and then the app will query the data and draw charts based on your description. Anyone can use it to analyze data just by words!
   
     <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/AnalystGPT.png" width="750">
   
