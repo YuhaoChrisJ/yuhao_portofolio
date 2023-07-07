@@ -12,7 +12,7 @@ Check my projects on AI/ML prediction, data pipeline, cloud computing, policy an
 
 * #### [AnalystGPT: Your data anlysis & visualization assistant](https://anlystgpt.streamlit.app/)
 
-  This is a web app I developed by myself. Using openai GPT llm models, it allows you to upload your data, and write description of what analysis you want to do, and then the app will query the data and visualize charts based on your description. Anyone can use it to analyze data just by your word!
+  This is a web app I developed by myself. Using openai GPT llm models, it allows you to upload your data, and write description of what analysis you want to do, and then the app will query the data and visualize charts based on your description. Anyone can use it to analyze data just by words!
   
   
 * #### [Hurricane Damage Detection using Random Forest and CNN](https://docs.google.com/presentation/d/1m7ji0eLPvw7-_8y0Up8dCOc90WtN7Z8-7mvYgz6bWgY/edit#slide=id.g23f820c846a_0_294)
