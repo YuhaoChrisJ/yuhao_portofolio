@@ -14,7 +14,7 @@ Check my projects on AI/ML prediction, data pipeline, cloud computing, policy an
 
   This is a web app I developed by myself. Using openai GPT llm models, it allows you to upload your data, and write description of what analysis you want to do, and then the app will query the data and draw charts based on your description. Anyone can use it to analyze data just by words!
   
-    <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/AnalystGPT.png" width="750">
+    <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/AnalystGPT0.png" width="750">
   
   
 * #### [Hurricane Damage Detection using Random Forest and CNN](https://docs.google.com/presentation/d/1m7ji0eLPvw7-_8y0Up8dCOc90WtN7Z8-7mvYgz6bWgY/edit#slide=id.g23f820c846a_0_294)
