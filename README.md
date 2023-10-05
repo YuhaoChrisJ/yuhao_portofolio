@@ -10,11 +10,11 @@ Check my projects on AI/ML prediction, data pipeline, cloud computing, policy an
 
 ## Machine Learning
 
-* #### [AnalystGPT: Your data anlysis & visualization assistant](https://anlystgpt.streamlit.app/)
+* #### [AnalystGPT: Your data analysis & visualization assistant](https://github.com/YuhaoChrisJ/AnalystGPT/tree/main)
 
-  This is a web app I developed by myself. Using openai GPT llm models, it allows you to upload your data, and write description of what analysis you want to do, and then the app will query the data and draw charts based on your description. Anyone can use it to analyze data just by words!
+  This is a web app I developed by myself. Using openai GPT llm models, it allows you to upload your data, and write description of what analysis you want to do, and then the app will query the data using SQL and draw charts based on your description. Anyone can use it to analyze data just by words!
   
-    <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/AnalystGPT.png" width="750">
+    <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/AnalystGPT0.png" width="750">
   
   
 * #### [Hurricane Damage Detection using Random Forest and CNN](https://docs.google.com/presentation/d/1m7ji0eLPvw7-_8y0Up8dCOc90WtN7Z8-7mvYgz6bWgY/edit#slide=id.g23f820c846a_0_294)
@@ -64,6 +64,13 @@ Check my projects on AI/ML prediction, data pipeline, cloud computing, policy an
   
   <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/House Price2.png" width="400"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/House Price.png" width="320">
 
+* #### [Predictive Policing: Sexual Harassment Risk in Chicago](https://yuhaochrisj.github.io/yuhao_portofolio/Data_Analysis/Predictive%20Policing%20Sexual%20Harassment%20Risk%20in%20Chicago.html)
+
+  In this project, I demonstrated the limitations of prediction model due to the bias in the original dataset,
+  selected feature data based on ‘broken window theory’,
+  and built poisson regression model on k-fold and neighborhood cross validation
+
+  <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Predicting Police2.png" width="380"> <img src="https://yuhaochrisj.github.io/yuhao_portofolio/Images/Predicting Police.png" width="380">
 
 ## Cloud Data Pipeline(ETL)/Web(Mapping) APP
 * #### [Data Pipeline for Traffic Risk Prediction in Reading, PA](https://github.com/hazellla/final)
